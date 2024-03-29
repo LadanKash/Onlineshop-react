@@ -1,0 +1,12 @@
+.hero-image {
+    position: relative;
+    text-align: center;
+    color: white; /* Add text color to make it visible against the image */
+  }
+  
+  .hero-img {
+    width: 100%; /* Set image width to cover the entire section */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+    object-fit: cover; /* Cover the entire container */
+  }
+  
